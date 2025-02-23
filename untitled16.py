@@ -13,7 +13,7 @@ pip install requests
 import requests
 import os
 # Your ElevenLab API key
-API_KEY = "sk_85cf39c0730d4d6f4a66bdb2ce5a39f1d278c0f8583f1ec4"
+API_KEY = "sk_85cf39c0730d4d6f4a66bdb2ce5a39f1d278c0f8583fXXXXX"
 
 # ElevenLabs API details
 VOICE_ID = "hGb0Exk8cp4vQEnwolxa"
